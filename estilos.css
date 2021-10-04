@@ -1,0 +1,48 @@
+body
+{
+    background-color: rgb(29, 61, 19);
+  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+H1
+{
+ text-align: center;
+ color: rgb(247, 247, 247);
+}
+
+table
+{
+color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+width: 100%;
+}
+
+.tablederecha
+{
+    text-decoration-color: rgb(255, 254, 254);
+    text-align: right;
+}
+
+.tableizquierda
+{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+
+.tabla
+{
+color: rgb(0, 0, 0);
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+border: darkred;
+border-width: 100%;
+}
+
+.centrar
+{
+    margin-left: 25%;
+}
